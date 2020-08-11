@@ -8,3 +8,7 @@ Los usuarios tienen Nombres, Apellidos, Direccionciones de Correo, Direcciones d
 Todo se almacena usando el OJDBC con una conexión sencilla con métodos faciles de entender.
 
 Faltan comentarios, pero no es un código dificil.
+
+Abierto para mirar y coger el código que haga falta, recomiendo que si has llegado aquí y eres estudiante no copy/pastes todo sin más, intenta entender y hacerlo tu mismo.
+
+Y no entregues esta misma agenda!!
